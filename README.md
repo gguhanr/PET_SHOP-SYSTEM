@@ -2,7 +2,7 @@
 
 # Run and deploy 
 
-1. Install dependencies:
+1. Install dependencies: 
    `npm install`
 2. Run the app:
    `npm run dev`
